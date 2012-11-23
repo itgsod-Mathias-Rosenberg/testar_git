@@ -15,4 +15,4 @@ Vanlig text!
 1. Tredje saken
 
 ## En länk
-[Utbildningsradion](http://www.ur.se)
+[Utbildningsradion](http://www.youtube.com)
